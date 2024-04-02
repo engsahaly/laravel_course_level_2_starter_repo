@@ -1,5 +1,7 @@
 ## Laravel For Absolute Beginners Course Level 2 Starter Repo
 
+<img src="https://img-b.udemycdn.com/course/750x422/5896146_26e7_2.jpg">
+
 **Created By :** Mahmoud Anwar
 **Email :** Engsahaly@gmail.com
 
